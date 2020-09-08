@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🙋️ About Me
+### 🙋️ About Me (She/her)
 I'm a full stack web developer 👩‍💻️ from Lagos, Nigeria. I take an artistic and unique approach to solving problems. I am passionate about building excellent and intuitive programmes, that can help me and others around me, do little things in a new way.
 
 I am available for hire, I am open to relocating and working remotely.
